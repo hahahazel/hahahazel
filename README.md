@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hazel Wat. Welcome to my Github. 
 - 🌱 I’m currently learning Data Science. Cohort 28 at Data Science Retreat, Berlin Germany. 
-- 💞️ I’m looking to collaborate on new Data Science projects
+- 💞️ Portfolio project: Sense AI. Demo day: 22 Dec 2021 (Tuesday). Stay tuned.
 - 📫 How to reach me www.linkedin.com/in/hazelwat
-- 👀 I’m interested in raising kids, sleeping, cooking and playing badminton. 
+- 👀 Switch from training kids, to training people, and now - training machine learning models. Eager to transform the world with data analyze instead of impulse/intuition. 
 
 <!---
 hahahazel/hahahazel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
